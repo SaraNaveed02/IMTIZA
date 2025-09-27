@@ -589,6 +589,7 @@ label input {
   width: 100%;
   object-fit: cover;
   overflow-x: hidden;
+  height:100vh;
 }
 
 .about-sections {
@@ -869,3 +870,4 @@ label input {
     height: 100%;
   }
 }
+
